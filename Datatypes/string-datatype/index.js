@@ -25,7 +25,7 @@ console.log(fullName[4]);
 
 // string methods
 
-console.log(fullName.length); // string property , that's  why brackets are not written.
+console.log(fullName.length); // string property , that's why brackets are not written.
 
 console.log(fullName.toUpperCase()); // string method used to perform a specific task on the string.
 

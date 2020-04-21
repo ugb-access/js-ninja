@@ -19,3 +19,4 @@ console.log(age === '30'); //false beacuse js will not do type conversion in thi
 console.log(age !== 30);
 
 console.log(age !== '30');
+
